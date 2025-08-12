@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WorldPhotos/static/css/main.e3b27329.css",
+    "main.js": "/WorldPhotos/static/js/main.ca802ffb.js",
+    "index.html": "/WorldPhotos/index.html",
+    "main.e3b27329.css.map": "/WorldPhotos/static/css/main.e3b27329.css.map",
+    "main.ca802ffb.js.map": "/WorldPhotos/static/js/main.ca802ffb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3b27329.css",
+    "static/js/main.ca802ffb.js"
+  ]
+}
