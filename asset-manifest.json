@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/WorldPhotos/static/css/main.b1d00101.css",
-    "main.js": "/WorldPhotos/static/js/main.3565bbf8.js",
+    "main.js": "/WorldPhotos/static/js/main.1ee4614d.js",
     "index.html": "/WorldPhotos/index.html",
     "main.b1d00101.css.map": "/WorldPhotos/static/css/main.b1d00101.css.map",
-    "main.3565bbf8.js.map": "/WorldPhotos/static/js/main.3565bbf8.js.map"
+    "main.1ee4614d.js.map": "/WorldPhotos/static/js/main.1ee4614d.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d00101.css",
-    "static/js/main.3565bbf8.js"
+    "static/js/main.1ee4614d.js"
   ]
 }
