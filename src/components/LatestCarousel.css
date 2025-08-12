@@ -1,0 +1,67 @@
+.latest-carousel {
+  overflow-x: auto;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+  padding: 20px 0;
+}
+
+.latest-carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-track {
+  display: flex;
+  gap: 20px;
+}
+
+.carousel-item {
+  flex: 0 0 auto;
+  width: 280px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  cursor: grab;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+
+.carousel-caption {
+  padding: 10px;
+  background: white;
+}
+
+.carousel-caption h4 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.carousel-caption p {
+  font-size: 0.875rem;
+  color: #555;
+}
+
+.latest-carousel.dragging {
+  cursor: grabbing;
+  cursor: -webkit-grabbing;
+}
+
+.latest-carousel {
+  user-select: none; /* prevent text selection */
+}
+
+.carousel-caption {
+  pointer-events: none; /* disable clicks on text */
+}
+
+.carousel-item img {
+  -webkit-user-drag: none; /* Safari/Chrome: prevent drag */
+  user-select: none;       /* prevent text-like selection */
+}
+
+
+
