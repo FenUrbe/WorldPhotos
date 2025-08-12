@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/WorldPhotos/static/css/main.b1d00101.css",
-    "main.js": "/WorldPhotos/static/js/main.eabb8451.js",
+    "main.css": "/WorldPhotos/static/css/main.2816c7c9.css",
+    "main.js": "/WorldPhotos/static/js/main.0893247c.js",
     "index.html": "/WorldPhotos/index.html",
-    "main.b1d00101.css.map": "/WorldPhotos/static/css/main.b1d00101.css.map",
-    "main.eabb8451.js.map": "/WorldPhotos/static/js/main.eabb8451.js.map"
+    "main.2816c7c9.css.map": "/WorldPhotos/static/css/main.2816c7c9.css.map",
+    "main.0893247c.js.map": "/WorldPhotos/static/js/main.0893247c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d00101.css",
-    "static/js/main.eabb8451.js"
+    "static/css/main.2816c7c9.css",
+    "static/js/main.0893247c.js"
   ]
 }
