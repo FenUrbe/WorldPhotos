@@ -2,6 +2,7 @@
   "name": "photoscape-animated",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://FenUrbe.github.io/WorldPhotos",
   "dependencies": {
     "framer-motion": "^10.18.0",
     "react": "18.2.0",
